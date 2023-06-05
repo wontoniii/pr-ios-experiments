@@ -9,14 +9,14 @@ import os
 
 def run_speedtest():
   capabilities =     {
-        "xcodeOrgId": "XXX",
+        "xcodeOrgId": "4X87KUK52T",
         "xcodeSigningId": "iPhone Developer",
         'platformName': 'iOS',
         'platformVersion': '15.6.1',
         'automationName': 'XCUITest',
         'browserName': 'Safari',
         'deviceName': 'iPad',
-        'udid': "XXX",
+        'udid': "00008103-001579403C88801E",
         'showXcodeLog': "true"
       }
         # 'updatedWDABundleId': 'com.francesco.prappium',

@@ -1,0 +1,11 @@
+{
+  "xcodeOrgId": "*****",
+  "xcodeSigningId": "iPhone Developer",
+  "platformName": "iOS",
+  "platformVersion": "15.6.1",
+  "automationName": "XCUITest",
+  "browserName": "Safari",
+  "deviceName": "iPad",
+  "udid": "*****",
+  "showXcodeLog": "true"
+}
